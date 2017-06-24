@@ -1,0 +1,22 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+}
+
+P {
+  color:blue;
+  font-family: verdana;
+  font-size: 20px
+  text-decoration: underline;
+}
+
+.warningMsg {
+  color: red;
+  font-size: small;
+  font-style: italic;
+  padding: 40px;
+}
